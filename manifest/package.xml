@@ -19,7 +19,7 @@
         <members>lookup</members>
         <members>cemSendEmail</members>
         <members>selectFieldComponent</members>
-        <members>cemSendEmail</members>
+        <members>sendEmail</members>
         <name>LightningComponentBundle</name>
     </types>
     <types>
